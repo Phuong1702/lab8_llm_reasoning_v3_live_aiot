@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/
+captures/
+*.log
+*.pt
+yolov8n.pt
